@@ -1,0 +1,8 @@
+html, body {
+    -webkit-tap-highlight-color: transparent;
+    background: aqua;
+    margin: 0;
+    font-weight: 400;
+    font-family: 'Source Sans Pro', 'Open Sans', Roboto, 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', 'Myriad Pro', 'Segoe UI', Myriad, Helvetica, 'Lucida Grande', 'DejaVu Sans Condensed', 'Liberation Sans', 'Nimbus Sans L', Tahoma, Geneva, Arial, sans-serif;
+    padding: .5em;
+  }
